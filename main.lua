@@ -5,7 +5,7 @@ require "draw"
 require "controls"
 
 function loadShit()
-love.window.setTitle("Vector tool")
+love.window.setTitle("vector.love")
 love.window.updateMode(800, 600, {resizable=true, vsync=-1, minwidth=560, minheight=420})
 screen_width, screen_height = love.graphics.getDimensions()
 

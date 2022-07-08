@@ -12,12 +12,12 @@ The controls use specific shortcut keys. "a" will edit an objects attributes, na
 
 To export an object's code and point data press the "s" key. This feature requires starting the vector.love project through a terminal window. 
 
-When drawing vector lines, use shift-click to start a new line object. cycle through all objects with "o". 
+Use shift-click to start a new line or point brush object. Cycle through all objects with "o". 
 
-Rectangles can be toggled fill/empty with the "f" key.
+Rectangles can be toggled fill/line with the "f" key.
 
 Vector segments can be deleted with "d". Rapid delete mode "z" is useful for deleting points quickly in point brush objects. 
 
-Hold "c" for a quick object color picker.
+Hold "c" for a quick color picker.
 
 <img src="pics/colorPicker.png" alt="features pic" width="400">
